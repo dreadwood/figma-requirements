@@ -68,4 +68,4 @@
 
 ### Примеры плохих макетов
 
-- [ВП: Три в ряд](https://www.figma.com/design/1lx1c82VfMfYGcsE1FF2i7/Untitled?node-id=0-1&p=f&t=c0HtHkdvxc3dKLdj-0)
+- [ВП: Три в ряд](https://www.figma.com/design/1lx1c82VfMfYGcsE1FF2i7/Untitled?node-id=0-1&p=f&t=c0HtHkdvxc3dKLdj-0)# figma-requirements
